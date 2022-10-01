@@ -106,6 +106,11 @@ const List = memo(WrappedListComponent);
 
 export default List;
 ```
+![image](https://user-images.githubusercontent.com/54151576/193424913-fb074339-18fe-4928-a973-a69083aaa069.png)
+![image](https://user-images.githubusercontent.com/54151576/193424931-8389423e-58e3-45c1-a5d9-95c1768fa6ca.png)
+![image](https://user-images.githubusercontent.com/54151576/193424940-1f9d7242-f800-42d4-b2d2-d369c490a44e.png)
+![image](https://user-images.githubusercontent.com/54151576/193424955-716fcbdf-b8f4-4069-a90c-16956edc4c1a.png)
+![image](https://user-images.githubusercontent.com/54151576/193424963-51d5b11a-bb24-4150-a7c8-f2e192bbb676.png)
 
 
 # Getting Started with Create React App
@@ -179,9 +184,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![image](https://user-images.githubusercontent.com/54151576/193424913-fb074339-18fe-4928-a973-a69083aaa069.png)
-![image](https://user-images.githubusercontent.com/54151576/193424931-8389423e-58e3-45c1-a5d9-95c1768fa6ca.png)
-![image](https://user-images.githubusercontent.com/54151576/193424940-1f9d7242-f800-42d4-b2d2-d369c490a44e.png)
-![image](https://user-images.githubusercontent.com/54151576/193424955-716fcbdf-b8f4-4069-a90c-16956edc4c1a.png)
-![image](https://user-images.githubusercontent.com/54151576/193424963-51d5b11a-bb24-4150-a7c8-f2e192bbb676.png)
+
 
