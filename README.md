@@ -1,5 +1,4 @@
 # SteelEye-Frontend-Assignment
-# SteelEye Frontend Engineer Assignment
 #### Introduction
 ##### Based on the code below answer the following queries:
 - Explain what the simple List component does.
